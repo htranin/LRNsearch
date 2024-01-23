@@ -8,4 +8,14 @@ Here we use HST imaging of nearby galaxies to find their possible progenitors an
 
 Content of this folder:
 * YSG_candidates_v0.1.zip: contains the fits file of the catalog of YSG candidates
-* 
+* galaxy_summary_new.fits: catalog of galaxies considered in this study
+* casjobs_query.py, retrieve_mast_data.py: codes to retrieve HST data from HSCv3 and/or MAST
+* transform_mast_cat.py: code to transform MAST catalogs into HSCv3-like catalogs
+* plot_cmd.py: code to analyze the CMD of a galaxy, select candidates, and plot the result
+* stack_candidates.py: code to stack the candidates of all galaxies and flag contaminants
+* study_gal.py: code to download and show HST science color images of a given galaxy
+
+If you use this catalog please cite (Tranin et al. to be submitted)
+Feel free to reach me at htranin[at]icc.ub.edu
+
+Good luck with your transients ✨
