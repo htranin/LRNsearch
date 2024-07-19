@@ -19,3 +19,5 @@ If you use this catalog please cite (Tranin et al. to be submitted)
 Feel free to reach me at htranin[at]icc.ub.edu
 
 Good luck with your transients ✨
+
+**NB: material presented in this folder is preliminary, the final version will be uploaded after article acceptance**
