@@ -15,7 +15,7 @@ Content of this folder:
 * stack_candidates.py: code to stack the candidates of all galaxies and flag contaminants
 * study_gal.py: code to download and show HST science color images of a given galaxy
 
-If you use this catalog please cite (Tranin et al. to be submitted)
+If you use this catalog please cite (Tranin et al. submitted to A&A, https://arxiv.org/abs/2409.11347)
 Feel free to reach me at htranin[at]icc.ub.edu
 
 Good luck with your transients ✨
