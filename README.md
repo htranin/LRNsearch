@@ -1,6 +1,6 @@
 # Extragalactic Hertzsprung gap progenitor candidates to predict and identify transients
 
-### Catalog of HST yellow supergiants in nearby galaxies (Tranin et al. to be submitted)
+### Catalog of HST yellow supergiants in nearby galaxies (Tranin et al. submitted to A&A, arxiv https://arxiv.org/abs/2409.11347)
 
 Luminous red novae (LRNe) are intermediate-luminosity optical transients observed in the Milky Way and nearby galaxies, uniquely probing the evolution of binary stars, as they represent the ejection of their shared envelope of gas, leading to the shrinking of their orbit, or their merger. 
 
