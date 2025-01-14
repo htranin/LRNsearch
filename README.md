@@ -1,4 +1,4 @@
-# Extragalactic Hertzsprung gap progenitor candidates to predict and identify transients
+# Extragalactic Hertzsprung gap stars and LRN progenitor candidates to predict and identify transients
 
 ### Catalog of HST yellow supergiants in nearby galaxies (Tranin et al. submitted to A&A, arxiv https://arxiv.org/abs/2409.11347)
 
